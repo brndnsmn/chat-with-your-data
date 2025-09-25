@@ -19,10 +19,11 @@ An **interactive application** that lets you **upload your own data**, **chat wi
  
 
 
-https://github.com/user-attachments/assets/8aee3851-122c-4ec5-b891-0169a400bb02
-
-
 <img width="1898" height="874" alt="Ekran görüntüsü 2025-09-25 123159" src="https://github.com/user-attachments/assets/ab18f219-786b-45dc-8263-2336d2d087ff" />
+
+
+https://github.com/user-attachments/assets/1961e3e1-8886-4d62-8f25-e333c74a0635
+
 
 
 ## 🚀 Getting Started  

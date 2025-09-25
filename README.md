@@ -15,7 +15,7 @@ An **interactive application** that lets you **upload your own data**, **chat wi
 
 ---
 
-## 🖼️ Screenshot  
+## Screenshot & Demo 
  
 
 

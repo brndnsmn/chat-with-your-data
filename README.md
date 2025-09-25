@@ -1,10 +1,10 @@
-# 🚀 Chat with Your Data  
+# Chat with Your Data  
 
 An **interactive application** that lets you **upload your own data**, **chat with it**, generate **charts**, and gain **insights**.  
 
 ---
 
-## ✨ Features  
+## Features  
 - 📂 **Excel/CSV upload** – Upload your own data in Excel or CSV format.  
 - 💬 **Chat with your data** – Ask natural language questions and get answers directly from your data.  
 - 📊 **Chart generation** – Create different types of charts *(bar, pie, line, scatter, etc.)* with a single prompt.  
@@ -18,7 +18,8 @@ An **interactive application** that lets you **upload your own data**, **chat wi
 ## 🖼️ Screenshot  
 ![Chat with Your Data](./screenshot.png)  
 
----
+---<img width="1898" height="874" alt="Ekran görüntüsü 2025-09-25 123159" src="https://github.com/user-attachments/assets/ab18f219-786b-45dc-8263-2336d2d087ff" />
+
 
 ## 🚀 Getting Started  
 
